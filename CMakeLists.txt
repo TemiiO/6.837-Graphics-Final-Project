@@ -142,7 +142,7 @@ foreach (source IN LISTS all_files)
     source_group("${source_path_msvc}" FILES "${source}")
 endforeach ()
 
-add_executable(${assignment_name} ${gloo_srcs} ${external_srcs} ${assignment_srcs} ${header_files})
+add_executable(${assignment_name} ${gloo_srcs} ${external_srcs} ${assignment_srcs} ${header_files} "assignmentPROJECT/WaterDropletSystem.hpp")
 
 target_link_libraries(${assignment_name} ${external_libs})
 target_compile_options(${assignment_name} PRIVATE ${cxx_warning_flags})

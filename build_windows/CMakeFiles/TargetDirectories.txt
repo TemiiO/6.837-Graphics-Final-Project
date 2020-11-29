@@ -1,0 +1,9 @@
+C:/Users/Goldd/Documents/6.837/final project/6.837-Graphics-Final-Project/build_windows/CMakeFiles/assignmentPROJECT.dir
+C:/Users/Goldd/Documents/6.837/final project/6.837-Graphics-Final-Project/build_windows/CMakeFiles/INSTALL.dir
+C:/Users/Goldd/Documents/6.837/final project/6.837-Graphics-Final-Project/build_windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/Goldd/Documents/6.837/final project/6.837-Graphics-Final-Project/build_windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Goldd/Documents/6.837/final project/6.837-Graphics-Final-Project/build_windows/external/src/glfw-3.3.2/CMakeFiles/uninstall.dir
+C:/Users/Goldd/Documents/6.837/final project/6.837-Graphics-Final-Project/build_windows/external/src/glfw-3.3.2/CMakeFiles/INSTALL.dir
+C:/Users/Goldd/Documents/6.837/final project/6.837-Graphics-Final-Project/build_windows/external/src/glfw-3.3.2/CMakeFiles/ALL_BUILD.dir
+C:/Users/Goldd/Documents/6.837/final project/6.837-Graphics-Final-Project/build_windows/external/src/glfw-3.3.2/src/CMakeFiles/glfw.dir
+C:/Users/Goldd/Documents/6.837/final project/6.837-Graphics-Final-Project/build_windows/external/src/glfw-3.3.2/src/CMakeFiles/INSTALL.dir

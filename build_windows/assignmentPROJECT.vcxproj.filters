@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\Application.cpp">
+      <Filter>gloo</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\Image.cpp">
+      <Filter>gloo</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\InputManager.cpp">
+      <Filter>gloo</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\MeshLoader.cpp">
+      <Filter>gloo</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\Renderer.cpp">
+      <Filter>gloo</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\Scene.cpp">
+      <Filter>gloo</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\SceneNode.cpp">
+      <Filter>gloo</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\Transform.cpp">
+      <Filter>gloo</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\VertexObject.cpp">
+      <Filter>gloo</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\cameras\ArcBallCameraNode.cpp">
+      <Filter>gloo\cameras</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\cameras\BasicCameraNode.cpp">
+      <Filter>gloo\cameras</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\components\CameraComponent.cpp">
+      <Filter>gloo\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\components\RenderingComponent.cpp">
+      <Filter>gloo\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\components\ShadingComponent.cpp">
+      <Filter>gloo\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\debug\AxisNode.cpp">
+      <Filter>gloo\debug</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\debug\PrimitiveFactory.cpp">
+      <Filter>gloo\debug</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\gl_wrapper\BindGuard.cpp">
+      <Filter>gloo\gl_wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\gl_wrapper\BindableBuffer.cpp">
+      <Filter>gloo\gl_wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\gl_wrapper\VertexArray.cpp">
+      <Filter>gloo\gl_wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\parsers\ObjParser.cpp">
+      <Filter>gloo\parsers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\shaders\PhongShader.cpp">
+      <Filter>gloo\shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\shaders\ShaderProgram.cpp">
+      <Filter>gloo\shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\shaders\SimpleShader.cpp">
+      <Filter>gloo\shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\utils.cpp">
+      <Filter>gloo</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\external\src\glad\src\glad.c">
+      <Filter>external\src\glad\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\external\src\imgui\imgui.cpp">
+      <Filter>external\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\external\src\imgui\imgui_demo.cpp">
+      <Filter>external\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\external\src\imgui\imgui_draw.cpp">
+      <Filter>external\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\external\src\imgui\imgui_widgets.cpp">
+      <Filter>external\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\external\src\imgui\examples\imgui_impl_glfw.cpp">
+      <Filter>external\src\imgui\examples</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\external\src\imgui\examples\imgui_impl_opengl3.cpp">
+      <Filter>external\src\imgui\examples</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\Application.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\Image.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\InputManager.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\Material.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\MeshData.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\MeshLoader.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\Renderer.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\Scene.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\SceneNode.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\Transform.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\VertexObject.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\alias_types.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\cameras\ArcBallCameraNode.hpp">
+      <Filter>gloo\cameras</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\cameras\BasicCameraNode.hpp">
+      <Filter>gloo\cameras</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\components\CameraComponent.hpp">
+      <Filter>gloo\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\components\ComponentBase.hpp">
+      <Filter>gloo\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\components\ComponentType.hpp">
+      <Filter>gloo\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\components\LightComponent.hpp">
+      <Filter>gloo\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\components\MaterialComponent.hpp">
+      <Filter>gloo\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\components\RenderingComponent.hpp">
+      <Filter>gloo\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\components\ShadingComponent.hpp">
+      <Filter>gloo\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\debug\AxisNode.hpp">
+      <Filter>gloo\debug</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\debug\PrimitiveFactory.hpp">
+      <Filter>gloo\debug</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\external.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\gl_wrapper\BindGuard.hpp">
+      <Filter>gloo\gl_wrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\gl_wrapper\BindableBuffer.hpp">
+      <Filter>gloo\gl_wrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\gl_wrapper\IBindable.hpp">
+      <Filter>gloo\gl_wrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\gl_wrapper\VertexArray.hpp">
+      <Filter>gloo\gl_wrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\gl_wrapper\VertexBuffer.hpp">
+      <Filter>gloo\gl_wrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\lights\AmbientLight.hpp">
+      <Filter>gloo\lights</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\lights\DirectionalLight.hpp">
+      <Filter>gloo\lights</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\lights\LightBase.hpp">
+      <Filter>gloo\lights</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\lights\PointLight.hpp">
+      <Filter>gloo\lights</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\parsers\ObjParser.hpp">
+      <Filter>gloo\parsers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\shaders\PhongShader.hpp">
+      <Filter>gloo\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\shaders\ShaderProgram.hpp">
+      <Filter>gloo\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\shaders\SimpleShader.hpp">
+      <Filter>gloo\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\gloo\utils.hpp">
+      <Filter>gloo</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Goldd\Documents\6.837\final project\6.837-Graphics-Final-Project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="external">
+      <UniqueIdentifier>{54F75181-6EF2-3C1A-9188-F746A8D49C96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="external\src">
+      <UniqueIdentifier>{BB5E873B-0D2D-3AA4-BEAB-89F6C796BEE1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="external\src\glad">
+      <UniqueIdentifier>{539DC752-BB6C-30CF-B248-9A37801A2594}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="external\src\glad\src">
+      <UniqueIdentifier>{2B8BA9F9-3283-3DED-8654-9CD6F62AFEC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="external\src\imgui">
+      <UniqueIdentifier>{12D40081-148E-35B0-BB04-DE380C9D5B95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="external\src\imgui\examples">
+      <UniqueIdentifier>{28D71A35-242C-354E-946E-83979C0D9D50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gloo">
+      <UniqueIdentifier>{D40CAD4C-F71F-3E35-8AF7-740792C17C5C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gloo\cameras">
+      <UniqueIdentifier>{205A6212-C881-3723-920E-9E45C2040AAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gloo\components">
+      <UniqueIdentifier>{59F4BAFF-78BD-3AD9-B7D3-0E411868A2AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gloo\debug">
+      <UniqueIdentifier>{BA6D8C77-3BFB-35E8-9558-8E3EDBC78A32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gloo\gl_wrapper">
+      <UniqueIdentifier>{B9F06240-E54B-3DEB-AFE6-C0329015529A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gloo\lights">
+      <UniqueIdentifier>{0758C601-FEF6-3B48-9387-F5C910DB3186}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gloo\parsers">
+      <UniqueIdentifier>{87531ED5-8E53-3BE5-868A-7DDD8748DB10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gloo\shaders">
+      <UniqueIdentifier>{E8D80531-B46B-3703-A628-65EAEDE6A1BD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
