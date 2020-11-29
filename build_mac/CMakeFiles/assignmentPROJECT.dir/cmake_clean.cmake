@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/assignmentPROJECT.dir/external/src/glad/src/glad.c.o"
+  "CMakeFiles/assignmentPROJECT.dir/external/src/imgui/examples/imgui_impl_glfw.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/external/src/imgui/examples/imgui_impl_opengl3.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/external/src/imgui/imgui.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/external/src/imgui/imgui_demo.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/external/src/imgui/imgui_draw.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/external/src/imgui/imgui_widgets.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/Application.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/Image.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/InputManager.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/MeshLoader.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/Renderer.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/Scene.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/SceneNode.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/Transform.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/VertexObject.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/cameras/ArcBallCameraNode.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/cameras/BasicCameraNode.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/components/CameraComponent.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/components/RenderingComponent.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/components/ShadingComponent.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/debug/AxisNode.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/debug/PrimitiveFactory.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/gl_wrapper/BindGuard.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/gl_wrapper/BindableBuffer.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/gl_wrapper/VertexArray.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/parsers/ObjParser.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/shaders/PhongShader.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/shaders/ShaderProgram.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/shaders/SimpleShader.cpp.o"
+  "CMakeFiles/assignmentPROJECT.dir/gloo/utils.cpp.o"
+  "assignmentPROJECT"
+  "assignmentPROJECT.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/assignmentPROJECT.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
