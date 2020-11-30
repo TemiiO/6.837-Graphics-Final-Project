@@ -11,6 +11,7 @@
 #include "gloo/components/RenderingComponent.hpp"
 #include "IntegratorType.hpp"
 #include "IntegratorFactory.hpp"
+#include "WaterDropletSystem.hpp"
 
 namespace GLOO {
     class WaterDropletNode : public SceneNode {
@@ -20,7 +21,7 @@ namespace GLOO {
         private:
             std::shared_ptr<VertexObject> particle_mesh_;
             ParticleState state_;
-            # TODO Add WaterDropletSystem
+            WaterDropletSystem system_;
             std::shared_ptr<ShaderProgram> shader_;
             SceneNode* particle_;
             std::unique_ptr<GLOO::IntegratorBase<WaterDropletSystem, ParticleState>> integrator_;
