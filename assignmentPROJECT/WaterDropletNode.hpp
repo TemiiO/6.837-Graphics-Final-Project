@@ -11,6 +11,7 @@
 #include "gloo/components/RenderingComponent.hpp"
 #include "IntegratorType.hpp"
 #include "IntegratorFactory.hpp"
+#include "PendulumSystem.hpp"
 #include "WaterDropletSystem.hpp"
 
 namespace GLOO {
@@ -21,7 +22,7 @@ namespace GLOO {
         private:
             std::shared_ptr<VertexObject> particle_mesh_;
             ParticleState state_;
-            WaterDropletSystem system_;
+            PendulumSystem system_;
             std::shared_ptr<ShaderProgram> shader_;
             SceneNode* particle_;
             std::unique_ptr<GLOO::IntegratorBase<WaterDropletSystem, ParticleState>> integrator_;
